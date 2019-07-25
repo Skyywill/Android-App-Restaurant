@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BULMA BAR APP</string>
+    <string name="bulma_logo" />
+
+    <string-array name="options">
+        <item name="Entree"></item>
+        <item name="Main"></item>
+        <item name="Specialty"></item>
+        <item name="Drink"></item>
+        <item name="MC Beet Salad"></item>
+        <item name="Royal Tramp Dumpling"></item>
+        <item name="Jasmine Pearl Siu Mai"></item>
+        <item name="Poutine Siu Mai"></item>
+        <item name="Shrimp Baobao"></item>
+        <item name="KIPIK Atlantic Salmon Tartare"></item>
+        <item name="BlackPrince Hamburger"></item>
+        <item name="Nationalist Beef Noodle Soup"></item>
+        <item name="Big Hot-Dog Shrimp"></item>
+        <item name="Ladies night Drink"></item>
+        <item name="SSJ3 Drink"></item>
+        <item name="Bulma Drink"></item>
+
+
+
+    </string-array>
+</resources>
